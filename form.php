@@ -18,7 +18,7 @@ date_default_timezone_set("Asia/Bangkok");
     }
 
     form {
-      background-color: rgba(255, 255, 255, 0.8);
+      background-color: rgba(255, 265, 265, 0.8);
       padding: 20px;
       border-radius: 10px;
     }

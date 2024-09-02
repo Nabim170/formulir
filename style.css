@@ -1,0 +1,175 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+body{
+	background-color: #f8f8f8;
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+#bg-login{
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+}
+.box-login{
+	width: 300px;
+	min-height: 200px;
+	border: 1px solid #ccc;
+	background-color: #fff;
+	padding: 15px;
+	box-sizing: border-box;
+}
+.box-login h2{
+	text-align: center;
+	margin-bottom: 15px;
+
+}
+.input-control{
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 15px;
+	box-sizing: border-box;
+}
+.btn{
+	padding: 8px 15px;
+	background-color: #fe5a1d;
+	border-radius: 20px;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+}
+
+/*----header----*/
+header {
+	
+	background-color:#fb4f14; 
+	color: #fff;
+
+}
+.header{
+	width: 100%;
+	height: 3rem;
+	background-color: #ff7518;
+	position: fixed;
+	z-index: 1000;
+}
+
+header h1{
+	float: left;
+	padding: 10px;
+}
+header ul{
+	float: right;
+}
+header ul li{
+	display: inline-block;
+}
+header ul li a{
+	padding: 20px 0 20px 15px;
+	display: inline-block;
+}
+
+.container {
+	width: 80%;
+	margin:0 auto;
+
+
+}
+.container:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+/*---content---*/
+.section{
+	padding: 25px 0;
+	
+
+}
+.box{
+	background-color: #fff5ee;
+	border: 1px solid #ccc;
+	padding: 15px;
+	box-sizing: border-box;
+	margin: 10px 0 25px 0;
+}
+.container h3{
+	margin-top: 30px;
+	padding-top: 30px;
+}
+/*---footer---*/
+footer{
+	padding: 25px 0;
+}
+.btn-2{
+	width: 100px;
+	height: 30px;
+	background-color: #ed872d;
+	border-radius: 30px;
+	border: none;
+}
+.btn-3{
+	width: 120px;
+	height: 30px;
+	background-color: #ed872d;
+	border-radius: 30px;
+	border: none;
+}
+
+
+/*---PUNYA FILE DATA-KATEGORII---*/
+
+
+.table{
+	width: 100%;
+	border-collapse: collapse;
+
+}
+.table tr{
+	height: 50px;
+
+}
+.table tr td{
+	padding: 5px 10px;
+}
+
+
+.btn-4{
+	width: 200px;
+	height: 30px;
+	background-color: #ed872d;
+	border: none;
+	box-sizing: border-box;
+	border-radius: 5px;
+	padding: 5px; 
+	margin-top: 10px;
+}
+.btn-5{
+	width: 200px;
+	height: 30px;
+	background-color: #1e90ff;
+	border: none;
+	box-sizing: border-box;
+	border-radius: 5px;
+	padding: 5px; 
+	margin-top: 10px;
+}
+.btn-6{
+	width: 122px;
+	height: 30px;
+	background-color: #4f86f7;
+	border: 1px solid;
+	box-sizing: border-box;
+	border-radius: 5px;
+	padding: 5px; 
+	margin-top: 10px;
+}
+
+.section{
+	background-image: 
+}

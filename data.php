@@ -17,7 +17,7 @@
   <style>
     body {
       background-image: url('ub.jpeg');
-      background-size: cover;
+      background-size: Bottom;
       font-family: Arial, sans-serif;
     }
 

@@ -25,7 +25,7 @@ date_default_timezone_set("Asia/Bangkok");
     .btn-submit {
       background-color: red;
       color: white;
-      padding: 15px 32px;
+      padding: 17px 32px;
       text-align: center;
       text-decoration: none;
       display: inline-block;
